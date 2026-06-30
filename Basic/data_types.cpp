@@ -9,6 +9,7 @@ int main()
     bool istrue = true;
 
     cout << "x = "<< x << endl<< "Y = "<<y <<endl;
+    
     cout << "Char = " << ch << endl<< "Is true? "<< istrue<<endl<<"Double"<<z;
 
 
